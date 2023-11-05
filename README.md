@@ -63,7 +63,7 @@ Q6 What has been the trend of revenue for the past 5years?
 For the year 2019 there has been a decline on the domestic gross revenue there is need to do more research on the market effects that could have caused the drop.
 
 RECOMMENDATIONS
-Microsoft should look at BV studio for best practices since their revenue growth has been on upward trajectory.They should also look at the uni studio which has the most productions.
+Microsoft should look at BV studio for best practices since their revenue growth has been on upward trajectory and they also produce the most popular genres.They should also look at the uni studio which has the most productions.
 
 Microsoft should produce movies that combined Action,Adventure and Sci fi had the highest return in terms of gross return,also the comedy animation and drama is a key genre.Therefore source for actors and actresses that are highly skilled
 
@@ -72,4 +72,3 @@ Microsoft while planning to produce the movies should have a plan of a run time 
 Further Analysis
 There is need for more research to be done to understand why the revenue has been declining in the past year.
 
-There is need to do more research on why the studio with high revenue yield does not have the most productions could it be an issue of the quality of movie produced.
