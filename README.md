@@ -1,7 +1,6 @@
-﻿<h1 style="font-size: 24px;">MICROSOFT MOVIE STUDIO MARKET ANALYSIS</h1>
+﻿<h1 style="font-size: 24px;">MICROSOFT MOVIE STUDIO MARKET ANALYSIS</h
 
-
-                  ![Alt text](images/moviepic.png)
+![Alt text](images/moviepic.png)
 
 <h1 style="font-size: 18px;">OVERVIEW</h1>
 
