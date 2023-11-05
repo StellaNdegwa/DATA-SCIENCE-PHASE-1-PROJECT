@@ -20,7 +20,7 @@ This exploratory data analysis generates insights on the movie production busine
 MAIN DATA ANALYSIS AND RESULTS
 
 Q1. Which type of movie generates most revenue?
-![Alt text](image.png)
+![Alt text](images/image.png)
 
 
 
@@ -57,7 +57,7 @@ Q5 Which studios are the top performers in terms of revenue?
 The studios with high yield in revenue do not have the most production this could translate to the good quality of movies they may be producing making the sales.There is need to do more research on this.
 
 Q6 Which Genre does the top revenue earner produce?
-![Alt text](image-1.png)
+![Alt text](<images/image-1 (2).png>)
 
 
 The studio with the highest total domestic gross revenue is: BV
