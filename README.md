@@ -56,7 +56,15 @@ Q5 Which studios are the top performers in terms of revenue?
 
 The studios with high yield in revenue do not have the most production this could translate to the good quality of movies they may be producing making the sales.There is need to do more research on this.
 
-Q6 What has been the trend of revenue for the past 5years?
+Q6 Which Genre does the top revenue earner produce?
+![Alt text](image-1.png)
+
+
+The studio with the highest total domestic gross revenue is: BV
+The genres produced by this studio are: Adventure,Animation,Comedy, Action,Adventure,Sci-Fi, Action,Drama,Family, Biography,Drama,History, Action,Adventure,Fantasy, Action,Adventure,Comedy, Action,Adventure,Family are just some that they produce.
+
+
+Q7 What has been the trend of revenue for the past 5years?
 ![Alt text](images/image-6.png)
 
 
